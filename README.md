@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Compiler, CPU Emulators and other System related softwares<br>👯 I’m looking to collaborate on Low Level Stuff<br>🤝 I’m looking for help with<br>🌱 I’m currently learning How Computers really work from bottom up<br>💬 Ask me about :|<br>⚡ Fun fact :)
+🔭 I’m currently working on Compiler, Assembler, Disassembler, OS, Bootloader, CPU Emulators and other System related softwares<br>I am also very much intereseted in different types of file format specification and the decoding of those information.<br>👯 I’m looking to collaborate on pretty much anything where I can learn more about these topics. <br>🤝 Im always surprised to see that all the digital data that we consume is merely the combination of 0s and 1s, surprisingly true.🌱 I’m currently learning the combination of 0s and 1s inside computer surrounds us everywhere.<br>💬 Ask me about :|<br>⚡ Fun fact :)
 
 
 # 💻 Tech Stack:
